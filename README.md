@@ -100,4 +100,4 @@ Publish the website in the given URL.
 ![Screenshot (1)](https://user-images.githubusercontent.com/119476069/215253706-1c336054-066e-49ce-8527-e10437826947.png)
 
 ## RESULT:
-
+The output for calculator is displayed successfully.
